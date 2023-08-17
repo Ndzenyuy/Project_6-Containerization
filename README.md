@@ -319,4 +319,7 @@ To check the running webapp, copy the public IP of the ec2 instance and run it o
 ## Results
 ![](https://github.com/Ndzenyuy/project6_containerization/blob/Main/images/Screenshot%20from%202023-08-17%2014-20-55.png)
 ![](https://github.com/Ndzenyuy/project6_containerization/blob/Main/images/Screenshot%20from%202023-08-17%2014-21-34.png)
+![](https://github.com/Ndzenyuy/project-1_2-Local-deployment_of_web_app/blob/main/images/Screenshot%20from%202023-07-10%2016-27-03.png)
+![](https://github.com/Ndzenyuy/project-1_2-Local-deployment_of_web_app/blob/main/images/Screenshot%20from%202023-07-10%2016-43-00.png)
+![](https://github.com/Ndzenyuy/project-1_2-Local-deployment_of_web_app/blob/main/images/Screenshot%20from%202023-07-10%2016-43-11.png)
 
