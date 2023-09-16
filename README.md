@@ -16,10 +16,11 @@ In Projects 1 & 2, our webapp was locally set up step by step on a local machine
 - AWS account
 
 ## Steps
-1. Setup Docker Engine
+1. Setup Docker Engine \
    Launch an ec2 instance with the following configurations
    ```
       OS: ubuntu 22.04
+      instance type: t2.small
       keypair: <creat_a_keypair>
       sec. group inbound rule: Allows all trafic from my IP
    ```
